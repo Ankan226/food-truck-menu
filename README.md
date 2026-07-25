@@ -2,7 +2,7 @@
 
 A digital menu board that lets floor staff look up items instantly, replacing manual paper systems and Excel sheets — built for ticket **ENG-56414**.
 
-🔗 **Live demo:** [https://food-truck-menu-yourname.vercel.app](https://food-truck-menu-yourname.vercel.app)
+🔗 **Live demo:** https://food-truck-menu-xi.vercel.app/
 
 
 ## Features
