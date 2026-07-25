@@ -17,12 +17,14 @@ A digital menu board that lets floor staff look up items instantly, replacing ma
 
 ## Screenshots
 
-| Menu View | Form Validation | Empty Search State |
-|---|---|---|
-| <img width="893" height="867" alt="image" src="https://github.com/user-attachments/assets/8041c9ce-037c-4637-b76a-2974e914df98" />
- | <img width="903" height="482" alt="image" src="https://github.com/user-attachments/assets/67bdba05-2f70-4693-98df-b4e2dbcdd433" />
- | <img width="898" height="300" alt="image" src="https://github.com/user-attachments/assets/5a264801-67a0-4996-bf38-d20937e61ee8" />
- |
+# Menu View
+<img width="893" height="867" alt="image" src="https://github.com/user-attachments/assets/8041c9ce-037c-4637-b76a-2974e914df98" />
+
+# Form Validation
+ <img width="903" height="482" alt="image" src="https://github.com/user-attachments/assets/67bdba05-2f70-4693-98df-b4e2dbcdd433" />
+
+ # Empty Search State
+ <img width="898" height="300" alt="image" src="https://github.com/user-attachments/assets/5a264801-67a0-4996-bf38-d20937e61ee8" />
 
 ## Tech Stack
 
